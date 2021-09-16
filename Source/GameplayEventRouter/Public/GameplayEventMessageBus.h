@@ -27,7 +27,7 @@ Copyright 2021 Empires Team
  * 
  */
 UCLASS()
-class SHAREDGAMEMODE_API UGameplayEventMessageBus : public UGameInstanceSubsystem
+class GAMEPLAYEVENTROUTER_API UGameplayEventMessageBus : public UGameInstanceSubsystem
 {
 	GENERATED_BODY()
 public:
